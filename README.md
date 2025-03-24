@@ -16,9 +16,13 @@ The most common movie duration in the 1990s is 94 minutes.
 
 
 
+
+
 ![Movie genres](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_movie_genres.jpg?raw=true)
 
 Action is the most popular movie genre in the 90s, followed by Dramas and Comedies. 
+
+
 
 
 ![short action movies](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_short_action_movies.jpg?raw=true)
