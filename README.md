@@ -10,11 +10,11 @@ In this project, I analyzed a dataset containing Netflix's movie catalogue in or
 
 ## 💡Key findings
 The most common movie duration in the 1990s is 94 minutes.
-![image](Screenshots/Screenshot 94.jpg)
+![Alt text](Screenshots/Screenshot 94.jpg)
 Action is the most popular movie genre in the 90s, followed by Dramas and Comedies. 
-![image](Screenshots/Screenshot movie genres.jpg)
+![Alt text](Screenshots/Screenshot movie genres.jpg)
 Netflix has seven short action movies in its catalogue. 
-![image](Screenshots/Screenshot short action movies.jpg)
+![Alt text](Screenshots/Screenshot short action movies.jpg)
 
 ## 📊Datasources
 - "netflix_data.csv" dataset. 
