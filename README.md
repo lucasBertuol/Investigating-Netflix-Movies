@@ -1,5 +1,6 @@
 # Investigating Netflix Movies
 ![image](https://github.com/user-attachments/assets/7cc94679-f26d-491d-b5db-5bd5f5d3bcbc)
+
 **An analysis of 1990s movie genre and duration in Netflix.**
 ## Overview
 In this project, I analyzed a dataset containing Netflix's movie catalogue in order to discover the most popular genres and durations of movies released in the 1990s. 
