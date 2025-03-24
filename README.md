@@ -10,13 +10,15 @@ In this project, I analyzed a dataset containing Netflix's movie catalogue in or
 - Verify the number of short action movies in the catalogue ( action movies with less than 90 minutes of duration)
 
 ## 💡Key findings
-The most common movie duration in the 1990s is 94 minutes.
 ![Common movie duration](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_94.jpg?raw=true)
-Action is the most popular movie genre in the 90s, followed by Dramas and Comedies. 
-![Movie genres](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_movie_genres.jpg?raw=true)
-Netflix has seven short action movies in its catalogue. 
-![short action movies](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_short_action_movies.jpg?raw=true)
+The most common movie duration in the 1990s is 94 minutes.
 
+
+![Movie genres](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_movie_genres.jpg?raw=true)
+Action is the most popular movie genre in the 90s, followed by Dramas and Comedies. 
+
+![short action movies](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_short_action_movies.jpg?raw=true)
+Netflix has seven short action movies in its catalogue. 
 ## 📊Datasources
 - "netflix_data.csv" dataset. 
 
