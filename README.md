@@ -3,7 +3,7 @@
 
 **An analysis of 1990s movie genre and duration in Netflix.**
 ## Overview
-In this project, I analyzed a dataset containing Netflix's movie catalogue in order to discover the most popular genres and durations of movies released in the 1990s. This project is a Datacamp assignment designed to help me improve my data analysis skills.
+In this project, I analyzed a dataset containing Netflix's movie catalogue in order to discover the most popular genres and durations of movies released in the 1990s.
 ## 🎯Objectives
 - Discover the most popular genres 
 - Find the most common movie duration
