@@ -10,7 +10,6 @@ In this project, I analyzed a dataset containing Netflix's movie catalogue in or
 - Verify the number of short action movies in the catalogue ( action movies with less than 90 minutes of duration)
   
 ## 💡Key findings
-1.
 ![Common movie duration](https://github.com/lucasBertuol/Investigating-Netflix-Movies/blob/main/Datacamp%20-%20Investigating%20Netflix%20Movies/Screenshots/Screenshot_94.jpg?raw=true)
 
 >The most common movie duration in the 1990s is 94 minutes.
