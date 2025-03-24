@@ -46,6 +46,8 @@ In this project, I analyzed a dataset containing Netflix's movie catalogue in or
 ## 📧Contact
 Email: lucascondessabertuol@gmail.com
 
+## Acknowledgments
+Datacamp - [link to Datacamp](https://app.datacamp.com/)
 
 
 
